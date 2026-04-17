@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="Nuvq3pofGIHmzp_KqNv-">
+    <mxGraphModel dx="1169" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NkrN8_DS-IE0CgNRAkgO-8" edge="1" parent="1" source="NkrN8_DS-IE0CgNRAkgO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="NkrN8_DS-IE0CgNRAkgO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="360" />
+              <mxPoint x="390" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkrN8_DS-IE0CgNRAkgO-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="工作区" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="NkrN8_DS-IE0CgNRAkgO-10" edge="1" parent="1" source="NkrN8_DS-IE0CgNRAkgO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" target="NkrN8_DS-IE0CgNRAkgO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="480" />
+              <mxPoint x="190" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkrN8_DS-IE0CgNRAkgO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="暂存区" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="NkrN8_DS-IE0CgNRAkgO-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="本地仓" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="NkrN8_DS-IE0CgNRAkgO-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="远端仓" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
